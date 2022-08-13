@@ -61,6 +61,6 @@ cd MITMf
 mkvirtualenv MITMf -p /usr/bin/python2.7
 ```
 ```
-./mitmf.py -h
+sudo ./mitmf.py -h
 ```
 
