@@ -1,8 +1,5 @@
 # Instalar-MITMf-en-kali-sin-errores.
 ```
-sudo apt install python2-dev python-setuptools libpcap0.8-dev libnetfilter-queue-dev libssl-dev libjpeg-dev libxml2-dev libxslt1-dev libcapstone4 libcapstone-dev libffi-dev file
-```
-```
 wget https://gist.githubusercontent.com/anir0y/a20246e26dcb2ebf1b44a0e1d989f5d1/raw/a9908e5dd147f0b6eb71ec51f9845fafe7fb8a7f/pip2%2520install -O run.sh 
 ```
 ```
@@ -15,10 +12,10 @@ chmod +x run.sh
 sudo apt update && sudo apt upgrade
 ```
 ```
+sudo apt install python2-dev python-setuptools libpcap0.8-dev libnetfilter-queue-dev libssl-dev libjpeg-dev libxml2-dev libxslt1-dev libcapstone4 libcapstone-dev libffi-dev file
+```
+```
 sudo apt install python3-pip -y
-```
-```
-sudo apt install python-pip
 ```
 ```
 sudo pip install virtualenvwrapper
