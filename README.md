@@ -1,4 +1,5 @@
 # Instalar-MITMf-en-kali-sin-errores.
+**Iniciamos instalando pip2**
 ```
 wget https://gist.githubusercontent.com/anir0y/a20246e26dcb2ebf1b44a0e1d989f5d1/raw/a9908e5dd147f0b6eb71ec51f9845fafe7fb8a7f/pip2%2520install -O run.sh 
 ```
@@ -8,6 +9,7 @@ chmod +x run.sh
 ```
 ./run.sh
 ```
+**Instalando todas las dependencias**
 ```
 sudo apt update && sudo apt upgrade
 ```
