@@ -29,7 +29,7 @@ sudo pip2 install -r requirements.txt
 sudo pip2 install ipy user_agents pyopenssl service_identity configobj Flask dnspython beautifulsoup4 capstone python-magic msgpack-python requests pypcap chardet pyinotify pycrypto pyasn1 cryptography Pillow netaddr scapy dnslib Twisted lxml pefile
 ```
 ```
-sudo python mitmf.py -h
+sudo python2 mitmf.py -h
 ```
 # Iniciar MITMf
 
@@ -37,6 +37,6 @@ sudo python mitmf.py -h
 cd MITMf
 ```
 ```
-sudo python mitmf.py -h
+sudo python2 mitmf.py -h
 ```
 
